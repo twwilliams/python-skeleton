@@ -8,7 +8,7 @@ config = {
     'author': 'Tommy Williams',
     'url': 'URL to retrieve it',
     'download_url': 'Where to download it',
-    'author_email': 'tommy@sapid.com'
+    'author_email': 'tommy@sapid.com',
     'version': '0.1',
     'install_requires': ['pytest'],
     'packages': ['NAME'],
